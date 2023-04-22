@@ -44,7 +44,7 @@ npm install j0hnw0rk3r/node-printer
 
 ### How to use:
 
-See [examples](https://github.com/thiagoelg/node-printer/tree/main/examples)
+See [examples](https://github.com/j0hnw0rk3r/node-printer/tree/main/examples)
 
 ### Author(s):
 
