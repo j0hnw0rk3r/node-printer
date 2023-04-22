@@ -39,7 +39,7 @@ I was involved in a project where I need to print from Node.JS. This is the reas
 
 ### How to install:
 ```
-npm install @thiagoelg/node-printer
+npm install @j0hnw0rk3r/node-printer
 ```
 
 ### How to use:
